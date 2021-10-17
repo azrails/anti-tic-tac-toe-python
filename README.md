@@ -1,7 +1,7 @@
 # anti-tic-tac-toe-python
-## Help
+## :star: Help
 ![Image alt](/1.png "--help")
-### About program: 
+### :star: About program: 
     Anti tic-tac-toe program.
     Loses the one who collects 5 in a row \ diagonal \ column in box 10x10 (standart).
     Also, in the case of a function call in other modules, you can set the dimension of the playing field n and the victory condition.
